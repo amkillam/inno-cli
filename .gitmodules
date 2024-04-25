@@ -1,0 +1,9 @@
+[submodule "pkg"]
+	path = pkg
+	url = https://github.com/amkillam/inno-cli-pkg
+[submodule "rs"]
+	path = rs
+	url = https://github.com/amkillam/inno-cli-rs
+[submodule "ps"]
+	path = ps
+	url = https://github.com/amkillam/inno-cli-ps
